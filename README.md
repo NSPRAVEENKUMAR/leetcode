@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0898-transpose-matrix) |
+| [3533-snake-in-matrix](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/3533-snake-in-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,4 +25,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0898-transpose-matrix) |
+| [3533-snake-in-matrix](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/3533-snake-in-matrix) |
+## String
+|  |
+| ------- |
+| [3533-snake-in-matrix](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/3533-snake-in-matrix) |
 <!---LeetCode Topics End-->
