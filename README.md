@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0258-add-digits) |
 | [0861-flipping-an-image](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0898-transpose-matrix) |
 | [3533-snake-in-matrix](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/3533-snake-in-matrix) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/1086-divisor-game) |
 | [2238-a-number-after-a-double-reversal](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/1086-divisor-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
