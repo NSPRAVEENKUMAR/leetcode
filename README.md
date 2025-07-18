@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3533-snake-in-matrix](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/3533-snake-in-matrix) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
