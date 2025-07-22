@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2748-calculate-delayed-arrival-time](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/2748-calculate-delayed-arrival-time) |
+| [2812-find-the-maximum-achievable-number](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Geometry
 |  |
 | ------- |
