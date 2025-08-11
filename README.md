@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0231-power-of-two) |
 | [0861-flipping-an-image](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/1086-divisor-game) |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0207-course-schedule) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
