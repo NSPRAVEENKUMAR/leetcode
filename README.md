@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0061-rotate-list) |
 | [0861-flipping-an-image](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Stack
 |  |
