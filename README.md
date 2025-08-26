@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0861-flipping-an-image](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0898-transpose-matrix) |
 | [3533-snake-in-matrix](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/3533-snake-in-matrix) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0231-power-of-two) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
