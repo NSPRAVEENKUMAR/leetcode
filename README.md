@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0861-flipping-an-image](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0861-flipping-an-image) |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/NSPRAVEENKUMAR/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
